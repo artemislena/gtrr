@@ -1,3 +1,8 @@
+---
+title: "GTRR"
+is_draft: true
+---
+
 # GTRR
 
 The Global Transgender Resources Registry ‒ A collaboratively made registry of webpages in Markdown containing useful information for transgender people around the world
@@ -11,6 +16,7 @@ For the post introducing the project, see [here](https://fantasycookie17.cf/post
 * Don't be a bigot; don't spread hate. Try to follow the [mode of conduct](https://fantasycookie17.cf/coc.html). Note: it contains some things specific to chatrooms on Matrix; these can be safely ignored.
 * Be honest. Don't be shy to include criticism of inviduals or organizations, if said criticism mirrors your experiences.
 * Please follow the file format requirements as specified below.
+* You agree to the content you submit to be licensed under CC0.
 
 ## File format
 The files are written in [Markdown](https://commonmark.org), and compiled by [Cobalt](https://cobalt-org.github.io). As for the latter, a specific "frontmatter" is expected to be present at the top of the page:
