@@ -1,5 +1,5 @@
 ---
 title: "Bremen"
 ---
-## Vereine und Beratungsstellen
+## Support- und Selbsthilfe-Gruppen und -Websites
 * [Trans*Beratung Bremen](https://transberatung-bremen.de/)
