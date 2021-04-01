@@ -7,4 +7,10 @@ summaries of laws regarding name and gender changes, all sorted by country, regi
 
 Read the post introducing this [here](/posts/2021/03/gtrr.html). Contributions are appreciated on [Codeberg](https://codeberg.org/FantasyCookie17/gtrr/), or by [contacting me](/contact.html).
 
+## Other global resources
+* [That's gender dysphoria, FYI](https://genderdysphoria.fyi): A website providing various definitions and explanations on transgender experiences, as well as articles on possible transition options.
+* [Tildes' `~lgbt` wiki](https://tildes.net/~lgbt/wiki/lgbt_resources): Includes some helpful links for trans people.
+* [Trans Voice](https://transvoice.party): A website focusing on support regarding voice feminization and masculinization.
+* [TransHealthCare ‒ Find a Surgeon](https://www.transhealthcare.org/find-surgeon/): Focuses mainly on the US, but provides a global registry of surgeons capable of performing SRS.
+
 Select your country below:
