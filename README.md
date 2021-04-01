@@ -49,6 +49,7 @@ To unify the categories in which entities are put, please refer to this alphabet
 * Psychiatry and psychology
 * Support and self-help groups and resources
 * Surgery
+* Voice
 
 Feel free to translate them to your native language, and ideally adjust the sorting accordingly. If something's missing, feel free to suggest to add it via the usual routes of contribution.
 
