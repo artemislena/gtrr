@@ -40,7 +40,7 @@ layout: gtrr.liquid
 ```
 
 ### Names of categories
-To unify the categories in which entities are put, please refer to this probably non-exhaustive list:
+To unify the categories in which entities are put, please refer to this alphabetically sorted, probably non-exhaustive list:
 * Endocrinology
 * Legal situation
 * Hair removal
@@ -49,9 +49,10 @@ To unify the categories in which entities are put, please refer to this probably
 * Psychiatry and psychology
 * Support and self-help groups and resources
 * Surgery
+
 Feel free to translate them to your native language, and ideally adjust the sorting accordingly. If something's missing, feel free to suggest to add it via the usual routes of contribution.
 
 ### Language
 You may use either English or a native language of the country you're writing about.
-Use inclusive, gender-neutral language where possible and appropriate. Some languages may require special characters that would be recognized by Markdown, e.g. the asterisk (`*`) to do so; these need to be escaped by a `\`, 
-i.e. `\*`.
+Use inclusive, gender-neutral language where possible and appropriate. Some languages may require special characters that would be recognized by Markdown, e.g. an asterisk (`*`) to do so; these need to be escaped by a 
+backslash (`\`), i.e. `\*`.
