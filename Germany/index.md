@@ -14,8 +14,8 @@ Die [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dg
 Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann sinnvoll sein, wenn
 * du nonbinär bist (die Option "divers" ist derzeit leider nur Intersex-Personen vorbehalten)
 * du noch keine juristische Namens- und Personenstandsänderung erreicht hast, oder diese nicht erreichen kannst oder willst
-.
-Weitere Informationen [hier](https://dgti.org/ergaenzungsausweis.html).
+
+. Weitere Informationen [hier](https://dgti.org/ergaenzungsausweis.html).
 
 ## Krankenkassen
 Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psychologe\*in oder einer\*s Psychiaterin\*s, mit dem du 
