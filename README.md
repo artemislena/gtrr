@@ -22,19 +22,10 @@ For the post introducing the project, see [here](https://fantasycookie17.cf/post
 The files are written in [Markdown](https://commonmark.org), and compiled by [Cobalt](https://cobalt-org.github.io).
 
 ### Frontmatter
-Cobalt expects a frontmatter to be present at the top of the file.
-
-For cities and certain regions without any further division, something like this would suffice:
+Cobalt expects a frontmatter to be present at the top of the file. It should look like something like this:
 ```yaml
 ---
-title: "Name of the region or city (in the language the page is written in)"
----
-```
-
-For larger regions and countries, use this:
-```yaml
----
-title: "Name as above"
+title: "Name of the country, region or city"
 layout: gtrr.liquid
 ---
 ```
