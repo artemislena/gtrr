@@ -21,7 +21,9 @@ Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann s
 Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psychologe\*in oder einer\*s Psychiaterin\*s, mit dem du 
 dann eine\*n Endokrinologi\*en aufsuchst. Chirurgische Eingriffe (hierzu zählen auch Haarentfernungen, wenn du diese nicht privat finanzieren möchtest, wobei die Finanzierung durch die Krankenkasse ohnehin nur bei 
 Dermatolog\*innen und Gynäkolog\*innen möglich ist) dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen); eine 
-Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden.
+Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden. Viele Ärtz\*innen bieten Haarentfernung nur als private Leistung an, sollte es aber keine geben, 
+die es auch über die Krankenkasse finanzieren lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Vorraussetzungen 
+für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*.
 
 ## Support- und Selbsthilfe-Gruppen und -Websites
 * [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org)
