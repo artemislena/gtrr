@@ -35,7 +35,7 @@ To unify the categories in which entities are put, please refer to this alphabet
 * Endocrinology
 * Legal situation
 * Hair removal
-* Health insurance
+* Health insurances
 * Holistic clinics
 * Psychiatry and psychology
 * Support and self-help groups and resources
