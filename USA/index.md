@@ -2,8 +2,8 @@
 title: USA
 layout: gtrr.liquid
 ---
-## Legal changes
-The National Center for Transgender Equality has compiled some information [here](https://transequality.org/documents).
+## Legal situation
+The National Center for Transgender Equality has compiled some information on document changes [here](https://transequality.org/documents).
 
 ## Support and self-help groups and websites
 * [The Trevor Project](https://www.thetrevorproject.org): Provides a mental health hotline and other mental health support offerings, including for queer people
