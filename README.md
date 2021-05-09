@@ -13,7 +13,7 @@ For the post introducing the project, see [here](https://artemislena.eu/posts/20
 * You may use both English and/or the native language of the country.
 * Put things into the appropriate path, e.g. `country/region/city/` or `country/`.
 * When linking to things within the registry, use relative paths, not absolute paths.
-* Don't be a bigot; don't spread hate. Try to follow the [code of conduct](https://artemislena.eu/coc.html). Note: it contains some things specific to chatrooms on Matrix; these can be safely ignored.
+* Don't be a bigot; don't spread hate. Try to follow the [code of conduct](https://artemislena.eu/coc.html).
 * Be honest. Don't be shy to include criticism of inviduals or organizations, if said criticism mirrors your experiences.
 * Please follow the file format requirements as specified below.
 * You agree to the content you submit to be licensed under CC0.
