@@ -1,7 +1,3 @@
----
-title: USA
-layout: gtrr.liquid
----
 ## Legal situation
 The National Center for Transgender Equality has compiled some information on document changes [here](https://transequality.org/documents).
 

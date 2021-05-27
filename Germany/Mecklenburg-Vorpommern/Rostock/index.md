@@ -1,6 +1,5 @@
 ---
-title: "Rostock"
-layout: gtrr.liquid
+data: {lang: "de"}
 ---
 
 ## Endokrinologie

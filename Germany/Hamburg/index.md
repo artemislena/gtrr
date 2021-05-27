@@ -1,6 +1,5 @@
 ---
-title: "Hamburg"
-layout: gtrr.liquid
+data: {lang: "de"}
 ---
 ## Endokrinologie
 * [endokrinologikum Hamburg](https://www.endokrinologikum-hamburg.de/)

@@ -1,8 +1,3 @@
----
-title: "GTRR"
-is_draft: true
----
-
 # GTRR
 
 The Global Transgender Resources Registry ‒ A collaboratively made registry of webpages in Markdown containing useful information for transgender people around the world
@@ -10,7 +5,7 @@ The Global Transgender Resources Registry ‒ A collaboratively made registry of
 For the post introducing the project, see [here](https://artemislena.eu/posts/2021/03/gtrr.html). The official instance is [here](https://gtrr.artemislena.eu).
 
 ## Contributing guidelines
-* You may use both English and/or the native language of the country.
+* You may use English and/or the native language of the country.
 * Put things into the appropriate path, e.g. `country/region/city/` or `country/`.
 * When linking to things within the registry, use relative paths, not absolute paths.
 * Don't be a bigot; don't spread hate. Try to follow the [code of conduct](https://artemislena.eu/coc.html).
@@ -22,13 +17,13 @@ For the post introducing the project, see [here](https://artemislena.eu/posts/20
 The files are written in [Markdown](https://commonmark.org), and compiled by [Cobalt](https://cobalt-org.github.io).
 
 ### Frontmatter
-Cobalt expects a frontmatter to be present at the top of the file. It should look like something like this:
+If your file is written in a different language than English, please include a frontmatter like this at the top of your file:
 ```yaml
 ---
-title: "Name of the country, region or city"
-layout: gtrr.liquid
+data: {lang: "de"}
 ---
 ```
+Substitute `de` with the common two-letter shortcode of the language you used.
 
 ### Names of categories
 To unify the categories in which entities are put, please refer to this alphabetically sorted, probably non-exhaustive list:

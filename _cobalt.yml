@@ -1,0 +1,15 @@
+# Build options
+ignore:
+    - "README.md"
+    - "LICENSE"
+# Site options
+site:
+  title: "GTRR"
+  base_url: "https://gtrr.artemislena.eu"
+
+# Page options
+default:
+    permalink: "/{{parent}}"
+    layout: default.liquid
+    data:
+        lang: "en"

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.data.lang }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/static/icon.svg" rel="icon" type="image/svg">
+        <link href="/static/style.css" rel="stylesheet" type="text/css">
+        <title>{{ site.title }}{% unless page.permalink == "" %} - {{ page.permalink }}{% endunless %}</title>
+    </head>
+    <body>
+        <header>
+            <h1><a href="/">{{site.title}}</a>{% unless page.permalink == "" %}
+            {% assign path = page.permalink | split: "/" %}{% assign i = -1 %}
+            {% for p in path %} - {% assign i = i | plus: 1 %}
+            <a href="{% for j in (0..i) %}/{{path[j]}}{% endfor %}"> {{ p }}</a>
+            {% endfor %}{% endunless %}</h1>
+       	</header>
+        <main>
+            {{ page.content }}
+            <nav>
+                <ul>
+                    {[- range $element := listFiles "{{ page.permalink }}"]}
+                    {[- if and (ne $element "index.html") (ne $element "static") ]}
+                    <li><a href="{[html $element]}">{[html $element]}</a></li>
+                    {[- end]}
+                    {[- end]}
+                </ul>
+            </nav>
+        </main>
+    </body>
+</html>

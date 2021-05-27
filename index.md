@@ -1,6 +1,5 @@
 ---
 title: "Global Transgender Resources Registry"
-layout: gtrr.liquid
 ---
 This is the Global Transgender Resources Registry, GTRR for short. It contains various resources helpful for transgender people, such as lists of medical professionals and clinics, lists of local support groups, and 
 summaries of laws regarding name and gender changes, all sorted by country, region and city.

@@ -1,6 +1,5 @@
 ---
-title: "Deutschland"
-layout: gtrr.liquid
+data: {lang: "de"}
 ---
 
 Dies ist die deutschland-spezifische Seite des [globalen Transgenderressourcenregisters (GTRR)](../).
