@@ -12,11 +12,6 @@ p {
     line-height: 1.5
 }
 
-.archive {
-    font-family: sans-serif;
-    font-size: 1.2em
-}
-
 a {
     color: #0054C0
 }
@@ -43,7 +38,10 @@ h2, h3 {
 ul, ol { font-family: serif }
 li { margin-top: 1em }
 
-nav ul { list-style-type: none }
+nav li {
+    list-style-type: none;
+    text-indent: -1.5em
+}
 
 @media (prefers-color-scheme: dark) {
 
