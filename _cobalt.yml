@@ -5,6 +5,7 @@ ignore:
 # Site options
 site:
   title: "GTRR"
+  description: "The Global Transgender Resources Registry"
   base_url: "https://gtrr.artemislena.eu"
 
 # Page options
