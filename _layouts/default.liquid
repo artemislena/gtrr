@@ -27,7 +27,7 @@
             <nav>
                 <ul>
                     {[- range $element := listFiles "{{ page.permalink }}"]}
-                    {[- if and (ne $element "index.html") (ne $element "static") ]}
+                    {[- if and (and (ne $element "index.html") (ne $element "static")) (ne $element "robots.txt") ]}
                     <li><a href="{[html $element]}">{[html $element]}</a></li>
                     {[- end]}
                     {[- end]}
