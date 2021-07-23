@@ -4,8 +4,8 @@ title: "Global Transgender Resources Registry"
 This is the Global Transgender Resources Registry, GTRR for short. It contains various resources helpful for transgender people, such as lists of medical professionals and clinics, lists of local support groups, and 
 summaries of laws regarding name and gender changes, all sorted by country, region and city.
 
-Read the post introducing this [here](https://artemislena.eu/posts/2021/03/gtrr.html). Contributions are appreciated on [Codeberg](https://codeberg.org/FantasyCookie17/gtrr/), [GitLab](https://gitlab.com/FantasyCookie17/gtrr), 
-and [GitHub](https://github.com/FantasyCookie17/gtrr). Alternatively, you can [contact me](https://artemislena.eu/contact.html) with suggestions.
+Read the post introducing this [here](https://artemislena.eu/posts/2021/03/gtrr.html). Contributions are appreciated on [Codeberg](https://codeberg.org/artemislena/gtrr/), [GitLab](https://gitlab.com/artemislena/gtrr), 
+and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [contact us](https://artemislena.eu/contact.html) with suggestions.
 
 ## Other global resources
 * [It Gets Better](https://itgetsbetter.org): An effort to uplift queer youth.
