@@ -1,8 +1,8 @@
 body {
-    max-width: 40em;
+    max-width: 45rem;
     margin: auto;
-    padding: 2.4em;
-    font-size: 1.08em;
+    padding: 2.4rem;
+    font-size: 1.08rem;
     font-family: sans-serif;
     color: #252525
 }
@@ -26,21 +26,21 @@ a:active {
     text-decoration: none
 }
 a:focus {
-    outline: solid #0054C0 0.2em
+    outline: solid #0054C0 0.3rem
 }
 
 h1 { text-align: center }
 h2, h3 {
-    margin-top: 1em;
+    margin-top: 1.1rem;
     margin-bottom: 0
 }
 
 ul, ol { font-family: serif }
-li { margin-top: 1em }
+li { margin-top: 1rem }
 
 nav li {
     list-style-type: none;
-    text-indent: -1.5em
+    text-indent: -1.7rem
 }
 
 @media (prefers-color-scheme: dark) {
