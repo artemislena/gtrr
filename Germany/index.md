@@ -25,8 +25,8 @@ die es auch über die Krankenkasse finanzieren lassen, so gilt dies als Systemve
 für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*.
 
 ## Support- und Selbsthilfe-Gruppen und -Websites
-* [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org)
 * [Bundesverband Trans\*](https://www.bundesverband-trans.de)
-
+* [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org)
+* [VLSP](https://vlsp.de): Verband für lesbische, schwule, bisexuelle, trans*, intersexuelle und queere Menschen in der Psychologie e.V.
 
 Für Bundesland-spezifische Informationen bitte aus dieser Liste auswählen:
