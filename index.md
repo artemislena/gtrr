@@ -12,6 +12,7 @@ and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [conta
 * [That's gender dysphoria, FYI](https://genderdysphoria.fyi): A website providing various definitions and explanations on transgender experiences, as well as articles on possible transition options.
 * [Tildes' `~lgbt` wiki](https://tildes.net/~lgbt/wiki/lgbt_resources): Includes some helpful links for trans people.
 * [Trans Voice](https://transvoice.party): A website focusing on support regarding voice feminization and masculinization.
+* [Transgender support group (trans.chat)](https://trans.chat): Provides both IRC chatrooms for trans people and various resources.
 * [TransHealthCare ‒ Find a Surgeon](https://www.transhealthcare.org/find-surgeon/): Focuses mainly on the US, but provides a global registry of surgeons capable of performing SRS.
 
 Select your country below:
