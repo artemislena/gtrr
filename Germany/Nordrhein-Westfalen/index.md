@@ -1,5 +1,5 @@
 ---
 data: {lang: "de"}
 ---
-## Support- und Selbsthilfe-Gruppen und -Websites
+## Support-Gruppen und -Ressourcen
 * [Trans NRW](https://trans-nrw.de/)

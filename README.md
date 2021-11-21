@@ -27,13 +27,13 @@ Substitute `de` with the common two-letter shortcode of the language you used.
 
 ### Names of categories
 To unify the categories in which entities are put, please refer to this alphabetically sorted, probably non-exhaustive list:
-* Endocrinology
 * Legal situation
 * Hair removal
 * Health insurances
 * Holistic clinics
-* Psychiatry and psychology
-* Support and self-help groups and resources
+* Hormone therapy
+* Psychotherapy and indications
+* Support groups and resources
 * Surgery
 * Voice
 

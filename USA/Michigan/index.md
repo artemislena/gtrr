@@ -1,4 +1,4 @@
-## Support and self-help groups and websites
+## Support groups and resources
 * [Transgender Michigan](https://www.transgendermichigan.org)
 
 Select your city below:
