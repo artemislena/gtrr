@@ -1,6 +1,9 @@
 ---
 data: {lang: "de"}
 ---
+## Haarentfernung
+- [Dr. med. Anne-Kathrin Bomke](https://www.hautarztpraxis-rostock.de/): Wird als "Laser" beworben, es handelt sich aber um IPL. Keine Kassenleistung, kann aber trotzdem von der Krankenkasse bezahlt werden; siehe den Abschnitt zu Krankenkassen [auf der Deutschland-weiten Seite](/Germany/).
+
 ## Hormontherapie
 * [Dr. med. Ansgar Gordalla](https://www.diabendo-rostock.de): Behandelt Personen ab 18 Jahren.
 * [Dr. med. Verena Wagner](https://kinderaerzte-am-stadthafen.de/): Behandelt Personen unter 18 Jahren. Achtung: Nur Indikationsschreiben von bestimmten Psycholog\*innen und Psychiater\*innen (in der Regel Herrn Haase, s.u.) werden angenommen. Desweiteren werden bei jüngeren Behandlungssuchenden zwei Indikationen verlangt.
