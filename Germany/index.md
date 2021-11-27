@@ -29,5 +29,6 @@ für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesve
 * [Bundesverband Trans\*](https://www.bundesverband-trans.de)
 * [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org)
 * [VLSP](https://vlsp.de): Verband für lesbische, schwule, bisexuelle, trans*, intersexuelle und queere Menschen in der Psychologie e.V.
+* [Trans\*DB](https://transdb.de): Eine Deutschland-spezifische Suchmaschine für Personen und Organisationen ähnlich jenem im GTRR.
 
 Für Bundesland-spezifische Informationen bitte aus dieser Liste auswählen:
