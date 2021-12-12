@@ -27,6 +27,7 @@ Substitute `de` with the common two-letter shortcode of the language you used.
 
 ### Names of categories
 To unify the categories in which entities are put, please refer to this alphabetically sorted, probably non-exhaustive list:
+* Accessoires (e.g. packers, binders, padding, tucking equipment)
 * Legal situation
 * Hair removal
 * Health insurances
