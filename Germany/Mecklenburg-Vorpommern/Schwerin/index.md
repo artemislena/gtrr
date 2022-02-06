@@ -7,4 +7,4 @@ data: {lang: "de"}
 - Dipl-Med. Karsten Reininghaus: Neurologe. Stellt keine Indikationen aus, bietet aber Anbindung an das interdisziplinäre Zentrum am UKE (Hamburg). Verschreibt sehr schnell Antidepressiva, wenn erwünscht.
 - Dipl.-Päd. Katja Trepsdorf: Psychologische Psychotherapeutin
 - Dipl.-Psych. Elisabeth Zint: Psychologische Psychotherapeutin
-- [Dr. Med. Jörg Flachsmeyer](https://www.helios-gesundheit.de/kliniken/schwerin/unser-angebot/unsere-mitarbeiter/profil/person/joerg-flachsmeyer/): Leitender Arzt Tageskliniken und Psychiatrische Institutsambulanz
+- [Dr. Med. Jörg Flachsmeyer](https://www.helios-gesundheit.de/kliniken/schwerin/unser-angebot/unsere-mitarbeiter/profil/person/joerg-flachsmeyer/): Leitender Arzt Tageskliniken und Psychiatrische Institutsambulanz. Stellt keine GAOP-Indikationen aus.
