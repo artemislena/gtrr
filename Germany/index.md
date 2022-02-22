@@ -29,7 +29,9 @@ Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim Institut für Epithetik, [
 ## Support-Gruppen und -Ressourcen
 * [Bundesverband Trans\*](https://www.bundesverband-trans.de)
 * [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org)
-* [VLSP](https://vlsp.de): Verband für lesbische, schwule, bisexuelle, trans*, intersexuelle und queere Menschen in der Psychologie e.V.
+* [Gynformation](https://www.gynformation.de/): Führt ein Verzeichnis mit unter anderem Gynäkolog\*innen und Endokrinolog\*innen.
+* [Queermed Deutschland](https://queermed-deutschland.de/): Ein Verzeichnis für queerfreundliche und sensibilisierte Ärzt\*innen & Therapeut\*innen.
 * [Trans\*DB](https://transdb.de): Eine Deutschland-spezifische Suchmaschine für Personen und Organisationen ähnlich jenem im GTRR.
+* [VLSP](https://vlsp.de): Verband für lesbische, schwule, bisexuelle, trans*, intersexuelle und queere Menschen in der Psychologie e.V.
 
 Für Bundesland-spezifische Informationen bitte aus dieser Liste auswählen:

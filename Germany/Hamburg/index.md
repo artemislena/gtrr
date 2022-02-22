@@ -14,6 +14,7 @@ data: {lang: "de"}
 - [MVZ Praxis im Chilehaus](https://www.praxis-chilehaus.de/)
 
 ## Psychotherapie und Indikationen
+- [4Be TransSuchtHilfe](https://www.therapiehilfe.de/standorte/4be-transsuchthilfe/): Verschiedene Angebote, unter anderem Erstellung von Gutachten und Indikationen durch Therapeut_innen
 - Dr. Eva Kleinemeier-Thundiyil: Psychologische Psychotherapeutin
 - Dr. med. Karin Renter-Schmidt: Fachärztin für Psychiatrie & Psychotherapie
 - Hannah Lietz: Fachärztin für Neurologie, Fachärztin für Psychiatrie und Psychotherapie, selbst trans
