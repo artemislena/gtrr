@@ -1,6 +1,9 @@
 ## Legal situation
 The National Center for Transgender Equality has compiled some information on document changes [here](https://transequality.org/documents).
 
+## Hormone therapy
+- [US HRT Informed Consent Map from Erin](https://www.transunity.net/us-hrt-informed-consent-map-from-erin/)
+
 ## Support groups and resources
 * [The Recovery Village](https://www.therecoveryvillage.com/): Supports people overcoming substance abuse and addiction. Due to queer people having a higher risk for these problems, they have a special section for them [here](https://www.therecoveryvillage.com/resources/lgbtq/).
 * [The Trevor Project](https://www.thetrevorproject.org): Provides a mental health hotline and other mental health support offerings, including for queer people
