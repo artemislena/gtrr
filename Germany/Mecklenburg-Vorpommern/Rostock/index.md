@@ -10,6 +10,7 @@ data: {lang: "de"}
 
 ## Psychotherapie und Indikationen
 - Dipl.-Psych. Anett Hoffmann: Psychologische Psychotherapeutin
+- [Dipl.-Psych. Anja Riekehr](https://psychotherapie.riekehr.de): Psychologische Psychotherapeutin, nimmt trans* Personen bevorzugt auf und stellt Indikationen sehr schnell aus
 - Dipl.-Psych. Antje Tuchscherer: Kinder- und Jugendlichenpsychotherapeutin, schwer mit Suchmaschinen zu finden, [aber auf der Seite der KV verzeichnet](https://www.kvmv.de/service/arztsuche/)
 - Dipl.-Psych. Dagmar Streit: Kinder- und Jugendlichenpsychotherapeutin
 - Dipl.-Soz. Päd. Torsten Witt: Kinder- und Jugendlichenpsychotherapeut
