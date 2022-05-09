@@ -12,22 +12,15 @@ p {
     line-height: 1.5
 }
 
-a {
-    color: #0054C0
-}
-a:visited {
-    color: #555
-}
-a:hover {
-    color: #00CDFF
-}
-a:active {
+a { color: #0054C0 }
+a:visited { color: #555 }
+nav a:visited { color: #0054C0 }
+a:hover, nav a:hover { color: #00CDFF }
+a:active, nav a:active {
     color: #00FFFF;
     text-decoration: none
 }
-a:focus {
-    outline: solid #0054C0 0.3rem
-}
+a:focus { outline: solid #0054C0 0.3rem }
 
 h1 { text-align: center }
 h2, h3 {
@@ -50,9 +43,10 @@ nav li {
         background: #252525
     }
 
-    a { color: #00CDFF }
-    a:visited { color: #AAA }
-    a:hover { color: #0054C0 }
-    a:focus { outline-color: #0054C0 }
-
+    a { color: #FF99CC }
+    a:visited { color: #AAA}
+    nav a:visited { color: #FF99CC }
+    a:active, nav a:active { color: #FFCCCC }
+    a:hover, nav a:hover { color: #FF66CC }
+    a:focus { outline-color: #FF99CC }
 }
