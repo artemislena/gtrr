@@ -6,4 +6,5 @@ data: {lang: de}
 - [Dr. med. Malte Brüggemann](https://www.helios-gesundheit.de/kliniken/stralsund/unser-angebot/unsere-mitarbeiter/profil/person/malte-brueggemann/): Forensischer Psychiater, ca. 4 Wochen Wartezeit
 
 ## Support-Gruppen und -Ressourcen
-- [Kreisdiakonisches Werk Stralsund e.V.](https://www.sexuelle-gesundheit-mv.de/beratungsstellen/kreisdiakonisches-werk-stralsund-ev)
+- [Kreisdiakonisches Werk Stralsund e.V.](https://www.sexuelle-gesundheit-mv.de/beratungsstellen/kreisdiakonisches-werk-stralsund-ev): Beratung zu sexueller Gesundheit
+- [Queer! Wir hier.](https://www.queer-stralsund.de)

@@ -6,9 +6,9 @@ Dies ist die deutschland-spezifische Seite des [globalen Transgenderressourcenre
 
 ## Juristische Situation
 In Deutschland ist diese derzeit relativ schwierig. Für eine juristische Namens- und Geschlechtsänderung benötigst du zwei psychologische Gutachten, die du leider selbst bezahlen musst ‒ und sie können bis zu 1000€ das Stück kosten. Das ganze läuft
-über ein TSG-Verfahren beim lokalen Amtsgericht; für weitere Details einfach dieses kontaktieren. Zusätzlich zu den Kosten für die Gutachten sind noch ca. 80€ für das Verfahren selbst sowie Kosten für neue Papiere (bspw. Geburtsurkunde und 
-Personalausweis) einzuplanen. Zeitlich nimmt ein solches Verfahren ca. 3 Monate bis ein Jahr in Anspruch. Die Ampel-Koalition will laut derzeitigem Verhandlungsstand eine Ersetzung des TSG, vermutlich durch das von Grünen und FDP vorgeschlagenen
-"Selbstbestimmungsgesetz", bei dem Gerichtsverfahren und psychologische Gutachten wegfallen würden.
+über ein TSG-Verfahren beim lokalen Amtsgericht; für weitere Details einfach dieses kontaktieren. Meistens haben die Gerichte eine Liste an gutachtenden Personen, die bei ihnen zugelassen sind. Zusätzlich zu den Kosten für die Gutachten sind noch ca.
+80€ für das Verfahren selbst sowie Kosten für neue Papiere (bspw. Geburtsurkunde und Personalausweis) einzuplanen. Zeitlich nimmt ein solches Verfahren ca. 3 Monate bis ein Jahr in Anspruch. Die Ampel-Koalition will laut Koalitionsvertrag eine
+Abschaffung des TSG durch ein neues Gesetz, bei dem Gerichtsverfahren und psychologische Gutachten wegfallen dürften.
 
 Die [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org) bietet für knapp 20€ einen sogenannten Ergänzungsausweis an. Dieser wird an deinen normalen Personalausweis gebunden und ist vom 
 Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann sinnvoll sein, wenn du noch keine juristische Namens- und Personenstandsänderung erreicht hast, oder diese nicht erreichen kannst oder willst. Weitere Informationen
@@ -32,6 +32,7 @@ Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim Institut für Epithetik, [
 * [Gynformation](https://www.gynformation.de/): Führt ein Verzeichnis mit unter anderem Gynäkolog\*innen und Endokrinolog\*innen.
 * [Queermed Deutschland](https://queermed-deutschland.de/): Ein Verzeichnis für queerfreundliche und sensibilisierte Ärzt\*innen & Therapeut\*innen.
 * [Trans\*DB](https://transdb.de): Eine Deutschland-spezifische Suchmaschine für Personen und Organisationen ähnlich jenem im GTRR.
+* [TransMann e.V.](https://transmann.de): Bietet an verschiedenen Standorten regionale Gruppen für transmaskuline Personen und andere Interessierte am Thema Transmaskulinität an.
 * [VLSP](https://vlsp.de): Verband für lesbische, schwule, bisexuelle, trans*, intersexuelle und queere Menschen in der Psychologie e.V.
 
 Für Bundesland-spezifische Informationen bitte aus dieser Liste auswählen:

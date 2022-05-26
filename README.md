@@ -26,7 +26,7 @@ data: {lang: "de"}
 Substitute `de` with the common two-letter shortcode of the language you used.
 
 ### Names of categories
-To unify the categories in which entities are put, please refer to this alphabetically sorted, probably non-exhaustive list:
+To unify the categories in which entities are put, please refer to this probably non-exhaustive list:
 * Accessoires (e.g. packers, binders, padding, tucking equipment)
 * Legal situation
 * Hair removal
@@ -37,6 +37,7 @@ To unify the categories in which entities are put, please refer to this alphabet
 * Support groups and resources
 * Surgery
 * Voice
+* Other (e.g. events, bars)
 
 Feel free to translate them to your native language, and ideally adjust the sorting accordingly. If something's missing, feel free to suggest to add it via the usual routes of contribution.
 

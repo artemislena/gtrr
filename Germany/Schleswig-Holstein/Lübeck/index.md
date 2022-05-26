@@ -2,6 +2,7 @@
 data: {lang: de}
 ---
 ## Hormontherapie
+- Dr. Isabel Mönig: Kinderärztin
 - [Dr. Wiebke Birnbaum](https://www.kinderarztpraxis-stresemannstrasse.de): Fachärztin für Kinder- und Jugendmedizin, spezialisiert auf Kinder-Endokrinologie und Kinder-Diabetologie
 
 ## Psychotherapie und Indikationen
