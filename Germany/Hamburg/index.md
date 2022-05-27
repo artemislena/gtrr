@@ -2,7 +2,7 @@
 data: {lang: "de"}
 ---
 ## Ganzheitliche Kliniken
-* [Interdisziplinäres Transgender Versorgungscentrum](https://www.uke.de/kliniken-institute/zentren/martin-zeitz-centrum/ueber-das-centrum/index.html#id80339) ‒ Achtung: sehr lange Warteliste.
+* [Interdisziplinäres Transgender Versorgungscentrum](https://www.uke.de/kliniken-institute/zentren/martin-zeitz-centrum/ueber-das-centrum/index.html#id80339) ‒ Achtung: sehr lange Warteliste. Diverse Angebot; Hormontherapie, Haarentfernung, Operationen, etc.
 
 ## Haarentfernung
 - Dr. med. Nikolaus Seeber: Dermatologe, spezialisiert auf unter anderem Lasertherapie

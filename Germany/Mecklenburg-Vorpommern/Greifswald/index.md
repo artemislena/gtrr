@@ -6,6 +6,7 @@ data: {lang: de}
 
 ## Psychotherapie und Indikationen
 - Dipl.-Psych. Barbara Eisner: Psychologische Psychotherapeutin
+- Dipl.-Psych. Dieter Arlt: Psychologischer Psychotherapeut
 
 ## Support-Gruppen und -Ressourcen
 - [Aktionsbündnis Queer in Greifswald e.V.](https://queer-hgw.de)
