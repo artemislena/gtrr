@@ -13,6 +13,7 @@ and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [conta
 * [Point of Pride](https://pointofpride.org): Offers various means of financial and material support for trans folks, notably free chest binders.
 * [That's gender dysphoria, FYI](https://genderdysphoria.fyi): A website providing various definitions and explanations on transgender experiences, as well as articles on possible transition options.
 * [Tildes' `~lgbt` wiki](https://tildes.net/~lgbt/wiki/lgbt_resources): Includes some helpful links for trans people.
+* [Trans Rescue](https://transrescue.org): A non-profit helping trans people flee places where it is dangerous to be trans, using conventional, legal methods.
 * [Trans Voice](https://transvoice.party): A website focusing on support regarding voice feminization and masculinization.
 * [Transfeminine Science](https://transfemscience.org): Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy.
 * [Transgender support group (trans.chat)](https://trans.chat): Provides both IRC chatrooms for trans people and various resources.
