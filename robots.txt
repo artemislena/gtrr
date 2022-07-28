@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /static/
+Sitemap: https://gtrr.artemislena.eu/sitemap.xml
