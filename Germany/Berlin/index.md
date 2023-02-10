@@ -6,8 +6,12 @@ data: {lang: "de"}
 - [Helios Klinikum Emil von Behring](https://www.helios-gesundheit.de/kliniken/berlin-klinikum-emil-von-behring/unser-angebot/fachbereiche/plastische-und-aesthetische-chirurgie/trans/): Penoidaufbau, Mastektomie, Mammaplastie
 - [MEOCLINIC](https://www.meoclinic.de/fachgebiete/transgender-chirurgie/): Bietet diverse Operationen an, vor allem bekannt für "All-in-One"-Phalloplastie (d.h., die Phalloplastie wird direkt mit einer Mastektomie kombiniert)
 
+## Haarentfernung
+- [Praxisklink Dr. Hasert](https://www.hasert-haut.de): Dermatologische Praxis
+
 ## Hormontherapie
 - [endokrinologikum Berlin](https://www.endokrinologikum-berlin.de)
+- [Johanna Henatsch](https://stadtteilpraxis.de): Fachärztin für Innere Medizin
 - [Praxis Dr. Sharma](https://drsharma.de/): Gynäkologische Praxis
 - [ViRo Praxis](https://www.viropraxis.de): Innere Medizin/Allgememeinmedizin, auf Minderheiten, vor allem queere Personen, spezialisiert, bieten auch Behandlungen für transgender Personen an
 
