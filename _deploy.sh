@@ -14,7 +14,7 @@ cobalt build && (
     find _site -name '*.html' -exec ./_append-hashes.sh {} \;
 
     echo 'Precompressing…'
-    find _site/static -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
+    find -E _site/static -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
 
     chmod -R a+rX _site
 
