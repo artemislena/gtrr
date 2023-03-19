@@ -17,7 +17,7 @@ find static -type f -exec sh -c 'xxh32sum {} | cut -d " " -f 1 > _metadata/{}' \
 find _site -name '*.html' -exec ./_append-hashes.sh {} \;
 
 echo 'Precompressing…'
-find -E _site/static -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
+find -E _site -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz|html)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
 
 chmod -R a+rX _site
 
