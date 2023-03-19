@@ -2,24 +2,26 @@
 
 # Deploy site to server
 
+set -e
 umask 022
 
-cobalt build && (
-    find _site -name '*.css' -exec css-html-js-minify --quiet --overwrite {} \; && echo 'CSS minified.'
+cobalt build
 
-    # Append hashes as query parameters to the paths in /static
-    echo 'Calculating and appending hashes…'
-    find static -type d -exec mkdir -p _metadata/{} \; >/dev/null
-    find static -type f -exec sh -c 'xxh32sum {} | cut -d " " -f 1 > _metadata/{}' \;
-    find _site -name '*.html' -exec ./_append-hashes.sh {} \;
+find _site -name '*.css' -exec css-html-js-minify --quiet --overwrite {} \;
+echo 'CSS minified.'
 
-    echo 'Precompressing…'
-    find -E _site/static -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
+# Append hashes as query parameters to the paths in /static
+echo 'Calculating and appending hashes…'
+find static -type d -exec mkdir -p _metadata/{} \; >/dev/null
+find static -type f -exec sh -c 'xxh32sum {} | cut -d " " -f 1 > _metadata/{}' \;
+find _site -name '*.html' -exec ./_append-hashes.sh {} \;
 
-    chmod -R a+rX _site
+echo 'Precompressing…'
+find -E _site/static -type f '!' -regex '.*\.(png|zip|7z|jpeg|webp|br|zst|gz)' -exec zstd -q {} \; -exec gzip -k {} \; -exec brotli {} \;
 
-    echo 'Touch YubiKey'
-    rsync -r --progress --del _site/ http:/srv/www/gtrr/
+chmod -R a+rX _site
 
-    rm -r _site/ && echo 'Build files removed.'
-)
+echo 'Touch YubiKey'
+rsync -r --progress --del _site/ http:/srv/www/gtrr/
+
+rm -r _site/ && echo 'Build files removed.'
