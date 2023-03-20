@@ -45,3 +45,6 @@ Feel free to translate them to your native language, and ideally adjust the sort
 You may use either English or a native language of the country you're writing about.
 Use inclusive, gender-neutral language where possible and appropriate. Some languages may require special characters that would be recognized by Markdown, e.g. an asterisk (`*`) to do so; these need to be escaped by a 
 backslash (`\`), i.e. `\*`.
+
+### Non-recommended options
+You may specifically disrecommend certain people and institutionns. If you decide to link to their website, please set `rel="nofollow"` on the `<a>` then (in case you're not experienced enough with Markdown/HTML to do that, just ask us).

@@ -6,7 +6,7 @@ data: {lang: "de"}
 
 ## Hormontherapie
 * [Dr. med. Ansgar Gordalla](https://www.diabendo-rostock.de): Behandelt Personen ab 18 Jahren.
-* [Dr. med. Verena Wagner](https://kinderaerzte-am-stadthafen.de/): Behandelt Personen unter 18 Jahren. Achtung: Nur Indikationsschreiben von bestimmten Psycholog\*innen und Psychiater\*innen (in der Regel Herrn Haase, s.u.) werden angenommen. Desweiteren werden bei jüngeren Behandlungssuchenden zwei Indikationen verlangt.
+* <a href="https://kinderaerzte-am-stadthafen.de/" rel="nofollow">Dr. med. Verena Wagner</a>: Behandelt Personen unter 18 Jahren. Achtung: Nur Indikationsschreiben von bestimmten Psycholog\*innen und Psychiater\*innen (in der Regel Herrn Haase, s.u.) werden angenommen. Desweiteren werden bei jüngeren Behandlungssuchenden zwei Indikationen verlangt.
 
 ## Psychotherapie und Indikationen
 - Arnim Stüwert und Julia Stüwert: Psychologische Psychotherapeut:innen

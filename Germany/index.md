@@ -24,7 +24,7 @@ für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesve
 Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim Institut für Epithetik, [hier](Schleswig-Holstein/Norderstedt).
 
 * [BKK firmus](https://www.bkk-firmus.de): Hier hat in mindestens einem Fall die Namens- und Geschlechtsänderung auf der Krankenkassenkarte mithilfe eines Ergänzungsausweises sowie die Beantragung der Bezahlung einer Haarentfernung funktioniert.
-* [Techniker Krankenkasse](https://www.tk.de): Bei transgender Personen sehr unbeliebt. Lehnt Änderungen auf der Krankenkassenkarte sowie die Bezahlung von Eingriffen häufig ab.
+* <a href="https://www.tk.de" rel="nofollow">Techniker Krankenkasse</a>: Bei transgender Personen sehr unbeliebt. Lehnt Änderungen auf der Krankenkassenkarte sowie die Bezahlung von Eingriffen häufig ab.
 
 ## Support-Gruppen und -Ressourcen
 * [Bundesverband Trans\*](https://www.bundesverband-trans.de)
