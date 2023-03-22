@@ -56,7 +56,7 @@ nav li {
     }
 
     a { color: #FF99CC }
-    a:focus { outline-color: #FF99CC; }
+    a:focus { outline-color: #FF99CC }
     a:visited {
         color: #AAA;
         outline-color: #AAA
