@@ -7,9 +7,11 @@ data: {lang: "de"}
 - [MEOCLINIC](https://www.meoclinic.de/fachgebiete/transgender-chirurgie/): Bietet diverse Operationen an, vor allem bekannt für "All-in-One"-Phalloplastie (d.h., die Phalloplastie wird direkt mit einer Mastektomie kombiniert)
 
 ## Haarentfernung
+- [Dr. Jahnke und Kollegen](https://www.dermatologie-in-berlin.de/): Dermatologische Praxis, bieten auch Elektrolyse (Nadelepilation) an
 - [Praxisklink Dr. Hasert](https://www.hasert-haut.de): Dermatologische Praxis
 
 ## Hormontherapie
+- Dr. Clemens Franz: arbeitet bei Medicover Berlin-Charlottenburg
 - [endokrinologikum Berlin](https://www.endokrinologikum-berlin.de)
 - [Johanna Henatsch](https://stadtteilpraxis.de): Fachärztin für Innere Medizin
 - [Praxis Dr. Sharma](https://drsharma.de/): Gynäkologische Praxis
