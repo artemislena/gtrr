@@ -25,4 +25,4 @@ data: {lang: "de"}
 - [Anna Holmes speech therapy - logopädie](http://www.speechtherapist.de/de/index.html): Bietet auch bilinguale Stimmtherapie an (also sowohl Deutsch als auch Englisch)
 
 ## Support-Gruppen und -Ressourcen
-- [non-transmedicalist trans medicals](https://t.me/+ctXcr5lla3syYzEy): Telegram-Gruppe für und von trans Personen
+- [non-transmedicalist trans medicals](https://t.me/+ctXcr5lIa3syYzEy): Telegram-Gruppe für und von trans Personen
