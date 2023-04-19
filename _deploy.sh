@@ -8,8 +8,8 @@ umask 022
 # Calculate hashes to append as query parameters to the paths in /static
 echo 'Calculating hashes…'
 find static -type d -exec mkdir -p _data/hashes/{} \; >/dev/null
-# This one prepends "-" if filename starts with a digit and replaces "." with "_" in filename (note, echo usage might be shell-specific, see https://stackoverflow.com/questions/44448096/echo-the-character-dash-in-the-unix-command-line)
-find static -type f -not -name '.DS_Store' -exec sh -c 'echo "\"$(xxh32sum {} | cut -d " " -f 1)\"" > "_data/hashes/$(dirname {})/$(basename {} | cut -c 1 | grep -q "[0-9]" && echo -)$(basename {} | tr "." "_").json"' \;
+# This one replaces "." with "-" and prepends it if filename starts with a digit (note, echo usage might be shell-specific, see https://stackoverflow.com/questions/44448096/echo-the-character-dash-in-the-unix-command-line)
+find static -type f -not -name '.DS_Store' -exec sh -c 'echo "\"$(xxh32sum {} | cut -d " " -f 1 | xxd -r -p | base64 | sed s/=//g | tr +/ -_)\"" > "_data/hashes/$(dirname {})/$(basename {} | cut -c 1 | grep -q "[0-9]" && echo -)$(basename {} | tr . -).json"' \;
 
 cobalt build
 
