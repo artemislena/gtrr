@@ -17,7 +17,7 @@ find _site -name '*.css' -exec css-html-js-minify --quiet --overwrite {} \;
 echo 'CSS minified.'
 
 echo 'Precompressing…'
-find -E _site -type f -not -regex '.*\.(png|zip|7z|jpeg|webp|br|gz|html)' -exec gzip -k --best {} \; -exec brotli {} \;
+find -E _site -type f -not -regex '.*\.(png|zip|7z|jpeg|webp|br|gz|zst|html)' -exec gzip -k --best {} \; -exec brotli {} \;
 
 chmod -R a+rX _site
 
