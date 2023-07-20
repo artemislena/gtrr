@@ -9,7 +9,7 @@ umask 022
 echo 'Calculating hashes…'
 find static -type d -exec mkdir -p _data/hashes/{} \; >/dev/null
 # This one replaces "." with "-" and prepends it if filename starts with a digit
-find static -type f -not -name '.DS_Store' -exec sh -c 'echo "\"$(xxh32sum "$0" | cut -d " " -f 1 | xxd -r -p | base64 | sed s/=//g | tr +/ -_)\"" > "_data/hashes/$(dirname "$0")/$(basename "$0" | cut -c 1 | sed "s/[0-9]/-/" | grep "\-")$(basename "$0" | tr . -).json"' {} \;
+find static -type f -not -name '.DS_Store' -exec sh -c 'echo "\"$(xxh32sum "$1" | cut -d " " -f 1 | xxd -r -p | base64 | sed s/=//g | tr +/ -_)\"" > "_data/hashes/$(dirname "$1")/$(basename "$1" | cut -c 1 | sed "s/[0-9]/-/" | grep "\-")$(basename "$1" | tr . -).json"' sh {} \;
 
 cobalt build
 
