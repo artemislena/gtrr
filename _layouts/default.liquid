@@ -19,9 +19,10 @@
     <body>
         <header>
             <nav>
-                <h1><a href="/">{{site.title}}</a>{% unless page.permalink == "" %}
-                {% assign path = page.permalink | split: "/" %}{% assign i = 0 %}{% for p in path %} - <a href="{% for j in (0..i) %}/{{path[j]}}{% endfor %}"> {{ p }}</a>
-                {% assign i = i | plus: 1 %}{% endfor %}{% endunless %}</h1>
+                <h1>
+                    <a href="/">{{site.title}}</a>{% unless page.permalink == "" %}{% assign l = page.permalink | size | minus: 2 %}{% assign path = page.permalink | slice: 0, l | split: "/" %}{% assign i = 0 %}
+                    {% for p in path %} - <a href="{% for j in (0..i) %}/{{path[j]}}{% endfor %}/">{{ p }}</a>{% assign i = i | plus: 1 %}{% endfor %}
+                {% endunless %}</h1>
             <nav>
        	</header>
         <main>
@@ -30,7 +31,7 @@
                 <ul>
                     {[- range $element := listFiles "{{ page.permalink }}"]}
                     {[- if and (eq (ext $element) "") (ne $element "static") ]}
-                    <li><a href="{[html $element]}">{[html $element]}</a></li>
+                    <li><a href="{[html $element]}/">{[html $element]}</a></li>
                     {[- end]}
                     {[- end]}
                 </ul>

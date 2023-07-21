@@ -11,7 +11,7 @@ site:
 
 # Page options
 default:
-    permalink: "/{{parent}}"
+    permalink: "/{{parent}}/"
     layout: default.liquid
     data:
         lang: "en"
