@@ -3,14 +3,15 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="generator" content="cobalt">
         <meta name="description" content="{{ site.description }}">
         <link href="/static/icon.webp?h={{ site.data.hashes.static.icon-webp }}" rel="icon" type="image/webp" sizes="16x16">
         <link href="/static/icon.svg?h={{ site.data.hashes.static.icon-svg }}" rel="icon" type="image/svg+xml" sizes="any">
         <link href="/static/style.css?h={{ site.data.hashes.static.style-css }}" rel="stylesheet" type="text/css">
-        <title>{{ site.title }}{% unless page.permalink == '' %} - {{ page.permalink }}{% endunless %}</title>
-        <meta property="og:title" content="{{ site.title }}{% unless page.permalink == '' %} - {{ page.permalink }}{% endunless %}">
-        <meta property="og:type" content="website">
+        {% assign length_without_slash = page.permalink | size | minus: 1 %}<title>{{ site.title }}{% unless page.permalink == '' %} - {{ page.permalink | slice: 0, length_without_slash }}{% endunless %}</title>
+        <meta property="og:title" content="{% unless page.permalink == '' %}{{ page.permalink | slice: 0, length_without_slash }}{% else %}Main page{% endunless %}">
+        <meta property="og:site_name" content="{{ site.title }}">
+        <meta property="og:description" content="{{ site.description }}">
+        <meta property="og:determiner" content="the">
         <meta property="og:url" content="{{ site.base_url }}/{{ page.permalink }}">
         <meta property="og:image" content="{{ site.base_url }}/static/icon.svg">
         <meta property="og:image:type" content="image/svg+xml">
@@ -20,7 +21,7 @@
         <header>
             <nav>
                 <h1>
-                    <a href="/">{{site.title}}</a>{% unless page.permalink == "" %}{% assign l = page.permalink | size | minus: 2 %}{% assign path = page.permalink | slice: 0, l | split: "/" %}{% assign i = 0 %}
+                    <a href="/">{{site.title}}</a>{% unless page.permalink == "" %}{% assign path = page.permalink | slice: 0, length_without_slash | split: "/" %}{% assign i = 0 %}
                     {% for p in path %} - <a href="{% for j in (0..i) %}/{{path[j]}}{% endfor %}/">{{ p }}</a>{% assign i = i | plus: 1 %}{% endfor %}
                 {% endunless %}</h1>
             <nav>
