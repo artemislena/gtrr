@@ -8,6 +8,7 @@
         <link href="/static/icon.svg?h={{ site.data.hashes.static.icon-svg }}" rel="icon" type="image/svg+xml" sizes="any">
         <link href="/static/style.css?h={{ site.data.hashes.static.style-css }}" rel="stylesheet" type="text/css">
         {% assign length_without_slash = page.permalink | size | minus: 1 %}<title>{{ site.title }}{% unless page.permalink == '' %} - {{ page.permalink | slice: 0, length_without_slash }}{% endunless %}</title>
+        <meta property="og:type" content="website">
         <meta property="og:title" content="{% unless page.permalink == '' %}{{ page.permalink | slice: 0, length_without_slash }}{% else %}Main page{% endunless %}">
         <meta property="og:site_name" content="{{ site.title }}">
         <meta property="og:description" content="{{ site.description }}">
