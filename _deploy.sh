@@ -25,5 +25,5 @@ find -E "$TMPDIR" -type f -not '(' -regex '.*\.(png|zip|7z|jpeg|webp|br|gz|zst|h
 
 chmod -R a+rX "$TMPDIR"
 
-echo 'Touch YubiKey'
+echo 'Authenticating to webserver…'
 rsync -r --progress --del "$TMPDIR"/ http:/srv/www/gtrr/
