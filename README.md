@@ -47,4 +47,4 @@ Use inclusive, gender-neutral language where possible and appropriate. Some lang
 backslash (`\`), i.e. `\*`.
 
 ### Non-recommended options
-You may specifically disrecommend certain people and institutionns. If you decide to link to their website, please set `rel="nofollow"` on the `<a>` then (in case you're not experienced enough with Markdown/HTML to do that, just ask us).
+You may specifically disrecommend certain people and institutions. If you decide to link to their website, please set `rel="nofollow"` on the `<a>` then (in case you're not experienced enough with Markdown/HTML to do that, just ask us).
