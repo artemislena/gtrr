@@ -8,7 +8,7 @@ You may [read the blog post introducing this](https://artemislena.eu/posts/2021/
 and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [contact us](https://artemislena.eu/contact.html) with suggestions.
 
 ## Other global resources
-* hrt.cafe: Resources and provider lists for DIY hormone therapy. Now defunct; continuations of the project at [diyhrt.cafe](https://diyhrt.cafe) and [hrt.coffee](https://hrt.coffee)
+* hrt.cafe: Resources and provider lists for DIY hormone therapy. Now defunct; continuations of the project at [hrtcafe.net](https://hrtcafe.net) (formerly diyhrt.cafe) and [hrt.coffee](https://hrt.coffee)
 * [It Gets Better](https://itgetsbetter.org): An effort to uplift queer youth.
 * [Point of Pride](https://pointofpride.org): Offers various means of financial and material support for trans folks, notably free chest binders.
 * [That's gender dysphoria, FYI](https://genderdysphoria.fyi): A website providing various definitions and explanations on transgender experiences, as well as articles on possible transition options.
