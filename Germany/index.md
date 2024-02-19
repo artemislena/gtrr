@@ -5,6 +5,7 @@ data: {lang: "de"}
 Dies ist die deutschland-spezifische Seite des [globalen Transgenderressourcenregisters (GTRR)](../).
 
 ## Juristische Situation
+
 In Deutschland ist diese derzeit relativ schwierig. Für eine juristische Namens- und Geschlechtsänderung benötigst du zwei psychologische Gutachten, die du leider selbst bezahlen musst ‒ und sie können bis zu 1000€ das Stück kosten. Das ganze läuft
 über ein TSG-Verfahren beim lokalen Amtsgericht; für weitere Details einfach dieses kontaktieren. Meistens haben die Gerichte eine Liste an gutachtenden Personen, die bei ihnen zugelassen sind. Zusätzlich zu den Kosten für die Gutachten sind noch ca.
 80€ für das Verfahren selbst sowie Kosten für neue Papiere (bspw. Geburtsurkunde und Personalausweis) einzuplanen. Zeitlich nimmt ein solches Verfahren ca. 3 Monate bis ein Jahr in Anspruch. Die Ampel-Koalition will laut Koalitionsvertrag eine
@@ -19,6 +20,17 @@ Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann s
 ### Hormontherapie
 
 Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psycholog\*in oder einer\*s Psychiaterin\*s, mit dem du dann eine\*n Endokrinolog\*in oder eine\*n Gynäkolog\*in aufsuchst.
+
+Das vorgehen um Hormontherapie zu erhalten ist wie folgt:
+
+1. Psychotherapie anfangen
+2. Indikationsschreiben vom Therapeuten erhalten
+3. Überweisung zum Endokrinologen vom Hausarzt abholen
+4. Termin beim Endokrinologen ausmachen und wahrnehmen
+
+* [Detailiertere Informationen](https://www.reddit.com/r/germantrans/comments/vtghnq/der_weg_zur_hormontherapie_beispiel/).
+
+* Hier sind [Beispiele](https://www.reddit.com/user/dambthatpaper/comments/vtfocp/hrt_indikationsschreiben_beispiel/) von Indikationsschreiben. (Backup: [1](https://files.catbox.moe/m2dn71.pjpg) [2](https://files.catbox.moe/pazb5x.pjpg))
 
 ### Chirurgische Eingriffe
 
