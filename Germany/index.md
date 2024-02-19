@@ -28,8 +28,9 @@ Das vorgehen um Hormontherapie zu erhalten ist wie folgt:
 3. Überweisung zum Endokrinologen vom Hausarzt abholen
 4. Termin beim Endokrinologen ausmachen und wahrnehmen
 
-* [Detailiertere Informationen](https://www.reddit.com/r/germantrans/comments/vtghnq/der_weg_zur_hormontherapie_beispiel/).
+Hier ist noch eine Auflistung von genaueren Informationen:
 
+* [Detailiertere Informationen](https://www.reddit.com/r/germantrans/comments/vtghnq/der_weg_zur_hormontherapie_beispiel/).
 * Hier sind [Beispiele](https://www.reddit.com/user/dambthatpaper/comments/vtfocp/hrt_indikationsschreiben_beispiel/) von Indikationsschreiben. (Backup: [1](https://files.catbox.moe/m2dn71.pjpg) [2](https://files.catbox.moe/pazb5x.pjpg))
 
 ### Chirurgische Eingriffe
