@@ -15,12 +15,27 @@ Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann s
 [hier](https://dgti.org/ergaenzungsausweis.html).
 
 ## Krankenkassen
-Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psycholog\*in oder einer\*s Psychiaterin\*s, mit dem du 
-dann eine\*n Endokrinolog\*in oder eine\*n Gynäkolog\*in aufsuchst. Chirurgische Eingriffe (hierzu zählen auch Haarentfernungen, wenn du diese nicht privat finanzieren möchtest, wobei die Finanzierung durch die Krankenkasse ohnehin nur bei 
-Dermatolog\*innen und Gynäkolog\*innen möglich ist) dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen); eine 
-Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden. Viele Ärtz\*innen bieten Haarentfernung nur als private Leistung an, sollte es aber keine geben, 
-die es auch über die Krankenkasse finanzieren lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Vorraussetzungen 
-für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*. Du suchst nach von der Krankenkasse finanzierten
+
+### Hormontherapie
+
+Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psycholog\*in oder einer\*s Psychiaterin\*s, mit dem du dann eine\*n Endokrinolog\*in oder eine\*n Gynäkolog\*in aufsuchst.
+
+### Chirurgische Eingriffe
+
+Chirurgische Eingriffe dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen);  
+Eine Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden.
+
+#### Haarentfernung
+
+Haarentfernungen gelten auch als Chirurgische Eingriffe und müssen von Dermatolog\*innen und Gynäkolog\*innen durchgeführt werden um von der Krankenkasse übernommen zu werden. Viele Ärtz\*innen bieten Haarentfernung jedoch nur als private Leistung an.
+
+#### Systemversagen
+
+Sollte es aber keine Möglichkeit geben, sich Chirurgische Eingriffe über die Krankenkasse finanzieren lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*.
+
+#### Penis-Hoden-Epithesen
+
+Du suchst nach von der Krankenkasse finanzierten
 Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim Institut für Epithetik, [hier](Schleswig-Holstein/Norderstedt).
 
 * [BKK firmus](https://www.bkk-firmus.de): Hier hat in mindestens einem Fall die Namens- und Geschlechtsänderung auf der Krankenkassenkarte mithilfe eines Ergänzungsausweises sowie die Beantragung der Bezahlung einer Haarentfernung funktioniert.
