@@ -4,6 +4,10 @@ The Global Transgender Resources Registry ‒ A collaboratively made registry of
 
 For the post introducing the project, see [here](https://artemislena.eu/posts/2021/03/gtrr.html). The official instance is [here](https://gtrr.artemislena.eu).
 
+## Setup
+
+You need to have [git-lfs](https://git-lfs.github.com) installed to clone and work with this repository.
+
 ## Contributing guidelines
 * You may use English and/or the native language of the country.
 * Put things into the appropriate path, e.g. `country/region/city/` or `country/`.
