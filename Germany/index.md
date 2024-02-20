@@ -5,6 +5,7 @@ data: {lang: "de"}
 Dies ist die deutschland-spezifische Seite des [globalen Transgenderressourcenregisters (GTRR)](../).
 
 ## Juristische Situation
+
 In Deutschland ist diese derzeit relativ schwierig. Für eine juristische Namens- und Geschlechtsänderung benötigst du zwei psychologische Gutachten, die du leider selbst bezahlen musst ‒ und sie können bis zu 1000€ das Stück kosten. Das ganze läuft
 über ein TSG-Verfahren beim lokalen Amtsgericht; für weitere Details einfach dieses kontaktieren. Meistens haben die Gerichte eine Liste an gutachtenden Personen, die bei ihnen zugelassen sind. Zusätzlich zu den Kosten für die Gutachten sind noch ca.
 80€ für das Verfahren selbst sowie Kosten für neue Papiere (bspw. Geburtsurkunde und Personalausweis) einzuplanen. Zeitlich nimmt ein solches Verfahren ca. 3 Monate bis ein Jahr in Anspruch. Die Ampel-Koalition will laut Koalitionsvertrag eine
@@ -15,12 +16,39 @@ Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann s
 [hier](https://dgti.org/ergaenzungsausweis.html).
 
 ## Krankenkassen
-Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psycholog\*in oder einer\*s Psychiaterin\*s, mit dem du 
-dann eine\*n Endokrinolog\*in oder eine\*n Gynäkolog\*in aufsuchst. Chirurgische Eingriffe (hierzu zählen auch Haarentfernungen, wenn du diese nicht privat finanzieren möchtest, wobei die Finanzierung durch die Krankenkasse ohnehin nur bei 
-Dermatolog\*innen und Gynäkolog\*innen möglich ist) dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen); eine 
-Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden. Viele Ärtz\*innen bieten Haarentfernung nur als private Leistung an, sollte es aber keine geben, 
-die es auch über die Krankenkasse finanzieren lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Vorraussetzungen 
-für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*. Du suchst nach von der Krankenkasse finanzierten
+
+### Hormontherapie
+
+Hormone sind normale verschreibungspflichtige Medikamente. Hier brauchst du keine spezielle Zustimmung der Krankenkasse ‒ es reicht ein Indikationsschreiben einem\*r Psycholog\*in oder einer\*s Psychiaterin\*s, mit dem du dann eine\*n Endokrinolog\*in oder eine\*n Gynäkolog\*in aufsuchst.
+
+Das vorgehen um Hormontherapie zu erhalten ist wie folgt:
+
+1. Psychotherapie anfangen
+2. Indikationsschreiben vom Therapeuten erhalten
+3. Überweisung zum Endokrinologen vom Hausarzt abholen
+4. Termin beim Endokrinologen ausmachen und wahrnehmen
+
+Hier ist noch eine Auflistung von genaueren Informationen:
+
+* [Detailiertere Informationen](https://www.reddit.com/r/germantrans/comments/vtghnq/der_weg_zur_hormontherapie_beispiel/).
+* Hier sind [Beispiele](https://www.reddit.com/user/dambthatpaper/comments/vtfocp/hrt_indikationsschreiben_beispiel/) von Indikationsschreiben. (Backup: [1](https://files.catbox.moe/m2dn71.pjpg) [2](https://files.catbox.moe/pazb5x.pjpg))
+
+### Chirurgische Eingriffe
+
+Chirurgische Eingriffe dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen);  
+Eine Stellungnahme der DGTI zu den derzeitigen ist [hier](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) zu finden.
+
+#### Haarentfernung
+
+Haarentfernungen gelten auch als Chirurgische Eingriffe und müssen von Dermatolog\*innen und Gynäkolog\*innen durchgeführt werden um von der Krankenkasse übernommen zu werden. Viele Ärtz\*innen bieten Haarentfernung jedoch nur als private Leistung an.
+
+#### Systemversagen
+
+Sollte es aber keine Möglichkeit geben, sich Chirurgische Eingriffe über die Krankenkasse finanzieren lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [hier](https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf) beim Bundesverband Trans\*.
+
+#### Penis-Hoden-Epithesen
+
+Du suchst nach von der Krankenkasse finanzierten
 Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim Institut für Epithetik, [hier](Schleswig-Holstein/Norderstedt).
 
 * [BKK firmus](https://www.bkk-firmus.de): Hier hat in mindestens einem Fall die Namens- und Geschlechtsänderung auf der Krankenkassenkarte mithilfe eines Ergänzungsausweises sowie die Beantragung der Bezahlung einer Haarentfernung funktioniert.
