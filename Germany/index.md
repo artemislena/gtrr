@@ -38,7 +38,7 @@ Hier ist noch eine Auflistung von genaueren Informationen:
 ### Chirurgische Eingriffe
 
 Chirurgische Eingriffe dagegen sind deutlich schwieriger zu erhalten. Hier gelten die Richtlinien des MDS (Spitzenverband medizinischer Dienst der gesetzlichen Krankenkassen). Die DGTI hat
-[eine Stellungnahme](https://dgti.org/images/pdf/dgti_stellungnahme_mds_2020.pdf) der DGTI zu den derzeitigen Richtlinien verfasst.
+[eine Stellungnahme](https://dgti.org/wp-content/uploads/2021/09/Stellungnahme_2021-02-05_MDS-RL-2020.pdf) der DGTI zu den derzeitigen Richtlinien verfasst.
 
 #### Haarentfernung
 
