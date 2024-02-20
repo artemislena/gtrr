@@ -47,7 +47,7 @@ Haarentfernungen gelten auch als chirurgische Eingriffe und müssen von Dermatol
 ##### Systemversagen
 
 Sollte es aber keine Möglichkeit geben, sich Chirurgische Eingriffe über die Krankenkasse finanzieren zu lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS
-vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [beim Bundesverband Trans\*(https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf).
+vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [beim Bundesverband Trans\*](https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf).
 
 #### Penis-Hoden-Epithesen
 
