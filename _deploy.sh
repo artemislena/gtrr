@@ -21,7 +21,7 @@ find "$TMPDIR" -name '*.css' -exec css-html-js-minify --quiet --overwrite {} \;
 echo 'CSS minified.'
 
 echo 'Precompressing…'
-find -E "$TMPDIR" -type f -not '(' -regex '.*\.(png|zip|7z|jpeg|webp|br|gz|zst|html)' -or -size 1 ')' -exec gzip -k --best {} \; -exec brotli {} \;
+find -E "$TMPDIR" -type f -not '(' -regex '.*\.(png|zip|7z|jpeg|webp|br|gz|zst|html)' -or -size 1 ')' -exec ect -9 -gzip {} \; -exec brotli {} \;
 
 chmod -R a+rX "$TMPDIR"
 
