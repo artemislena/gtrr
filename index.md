@@ -17,6 +17,7 @@ and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [conta
 * [Trans Voice](https://transvoice.party): A website focusing on support regarding voice feminization and masculinization.
 * [Transfeminine Science](https://transfemscience.org): Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy.
 * [Transgender support group (trans.chat)](https://trans.chat): Provides both IRC chatrooms for trans people and various resources.
+* [Trans Harm Reduction](https://transharmreduction.org): Resources on injection safety and support for obtaining safe needles.
 * [TransHealthCare ‒ Find a Surgeon](https://www.transhealthcare.org/find-surgeon/): Focuses mainly on the US, but provides a global registry of surgeons capable of performing SRS.
 
 Select your country below:
