@@ -1,2 +1,23 @@
+# Advertising
+User-agent: Adsbot
+Disallow: /
+Allow: /ads.txt
+Allow: /app-ads.txt
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+
+# IP-violation scanners
+User-agent: Turnitinbot
+User-agent: NPBot
+User-agent: SlySearch
+User-agent: BLEXBot
+User-agent: CheckMarkNetwork/1.0 (+https://www.checkmarknetwork.com/spider.html)
+User-agent: BrandVerity/1.0
+
+# Doxing bot?
+User-agent: PiplBot
+
+Disallow: /
+
 User-agent: *
 Sitemap: https://gtrr.artemislena.eu/sitemap.xml
