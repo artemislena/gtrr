@@ -1,11 +1,9 @@
 ---
 title: "Global Transgender Resources Registry"
 ---
-This is the Global Transgender Resources Registry, GTRR for short. It contains various resources helpful for transgender people, such as lists of medical professionals and clinics, lists of local support groups, and 
-summaries of laws regarding name and gender changes, all sorted by country, region and city.
+This is the Global Transgender Resources Registry, GTRR for short. It contains various resources helpful for transgender people, such as lists of medical professionals and clinics, lists of local support groups, and summaries of laws regarding name and gender changes, all sorted by country, region and city.
 
-You may [read the blog post introducing this](https://artemislena.eu/posts/2021/03/gtrr.html). Contributions are appreciated on [Codeberg](https://codeberg.org/artemislena/gtrr/), [GitLab](https://gitlab.com/artemislena/gtrr), 
-and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [contact us](https://artemislena.eu/contact.html) with suggestions.
+You may [read the blog post introducing this](https://artemislena.eu/posts/2021/03/gtrr.html). Contributions are appreciated on [Codeberg](https://codeberg.org/artemislena/gtrr/), [GitLab](https://gitlab.com/artemislena/gtrr), and [GitHub](https://github.com/artemislena/gtrr). Alternatively, you can [contact us](https://artemislena.eu/contact.html) with suggestions.
 
 ## Other global resources
 * hrt.cafe: Resources and provider lists for DIY hormone therapy. Now defunct; continuations of the project at [hrtcafe.net](https://hrtcafe.net) (formerly diyhrt.cafe) and [hrt.coffee](https://hrt.coffee)

@@ -5,15 +5,9 @@ data: {lang: "de"}
 Dies ist die deutschland-spezifische Seite des [globalen Transgenderressourcenregisters (GTRR)](../).
 
 ## Juristische Situation
+Seit kurzem ist es möglich, Vornamen und Geschlecht mit dem Selbstbestimmungsgesetz zu ändern. Dazu musst du dich 6 Monate vorab beim Standesamt anmelden, und kannst dann deine Vornamen und dein Geschlecht juristisch ändern lassen.
 
-In Deutschland ist diese derzeit relativ schwierig. Für eine juristische Namens- und Geschlechtsänderung benötigst du zwei psychologische Gutachten, die du leider selbst bezahlen musst ‒ und sie können bis zu 1000€ das Stück kosten. Das ganze läuft
-über ein TSG-Verfahren beim lokalen Amtsgericht; für weitere Details einfach dieses kontaktieren. Meistens haben die Gerichte eine Liste an gutachtenden Personen, die bei ihnen zugelassen sind. Zusätzlich zu den Kosten für die Gutachten sind noch ca.
-80€ für das Verfahren selbst sowie Kosten für neue Papiere (bspw. Geburtsurkunde und Personalausweis) einzuplanen. Zeitlich nimmt ein solches Verfahren ca. 3 Monate bis ein Jahr in Anspruch. Die Ampel-Koalition will laut Koalitionsvertrag eine
-Abschaffung des TSG durch ein neues Gesetz, bei dem Gerichtsverfahren und psychologische Gutachten wegfallen dürften.
-
-Die [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org) bietet für knapp 20€ einen sogenannten Ergänzungsausweis an. Dieser wird an deinen normalen Personalausweis gebunden und ist vom 
-Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann sinnvoll sein, wenn du noch keine juristische Namens- und Personenstandsänderung erreicht hast, oder diese nicht erreichen kannst oder willst.
-[Weitere Informationen](https://dgti.org/ergaenzungsausweis.html).
+Die [Deutsche Gesellschaft für Transidentität und Intersexualität](https://dgti.org) bietet für knapp 20€ einen sogenannten Ergänzungsausweis an. Dieser wird an deinen normalen Personalausweis gebunden und ist vom Innenministerium sowie diversen Behörden und Krankenkassen anerkannt. Er kann sinnvoll sein, wenn du noch keine juristische Namens- und Personenstandsänderung erreicht hast, oder diese nicht erreichen kannst oder willst. [Weitere Informationen](https://dgti.org/ergaenzungsausweis.html).
 
 ## Krankenkassen
 
@@ -46,13 +40,11 @@ Haarentfernungen gelten auch als chirurgische Eingriffe und müssen von Dermatol
 
 ##### Systemversagen
 
-Sollte es aber keine Möglichkeit geben, sich Chirurgische Eingriffe über die Krankenkasse finanzieren zu lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS
-vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [beim Bundesverband Trans\*](https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf).
+Sollte es aber keine Möglichkeit geben, sich Chirurgische Eingriffe über die Krankenkasse finanzieren zu lassen, so gilt dies als Systemversagen und die Krankenkasse ist dann auch für die eigentlich private Leistung zahlungspflichtig, sofern die vom MDS vorgegebenen Voraussetzungen für chirurgische Eingriffe erfüllt sind. Mehr dazu [beim Bundesverband Trans\*](https://web.archive.org/web/20210204125329/https://www.bundesverband-trans.de/wp-content/uploads/2019/11/Praxistipps-Trans-Krankenkasse_11_ONLINE.pdf).
 
 #### Penis-Hoden-Epithesen
 
-Du suchst nach von der Krankenkasse finanzierten
-Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim [Institut für Epithetik](Schleswig-Holstein/Norderstedt).
+Du suchst nach von der Krankenkasse finanzierten Penis-Hoden-Epithesen ("Packern")? Diese gibt es beim [Institut für Epithetik](Schleswig-Holstein/Norderstedt).
 
 * [BKK firmus](https://www.bkk-firmus.de): Hier hat in mindestens einem Fall die Namens- und Geschlechtsänderung auf der Krankenkassenkarte mithilfe eines Ergänzungsausweises sowie die Beantragung der Bezahlung einer Haarentfernung funktioniert.
 * <a href="https://www.tk.de" rel="nofollow">Techniker Krankenkasse</a>: Bei transgender Personen sehr unbeliebt. Lehnt Änderungen auf der Krankenkassenkarte sowie die Bezahlung von Eingriffen häufig ab.
