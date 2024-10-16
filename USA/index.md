@@ -2,7 +2,7 @@
 The National Center for Transgender Equality has compiled some information on document changes [here](https://transequality.org/documents).
 
 ## Hormone therapy
-- [US HRT Informed Consent Map from Erin](https://www.transunity.net/us-hrt-informed-consent-map-from-erin/)
+- [Erin's Informed Consent HRT Map](https://www.erininthemorning.com/p/erins-informed-consent-hrt-map-how)
 
 ## Support groups and resources
 * [The Trevor Project](https://www.thetrevorproject.org): Provides a mental health hotline and other mental health support offerings, including for queer people
